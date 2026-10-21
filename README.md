@@ -1,5 +1,5 @@
 # apnacollege-demo
 This is my first Repository.
 <br>
-Author - samiur rahman [Apna College]
+Author - samiur rahman [Apna College sami]
 
